@@ -53,8 +53,8 @@ export const siteUrl = "https://seu-site.exemplo.com";
 
 export const resume: Resume = {
   profile: {
-    name: "Seu Nome",
-    role: "Desenvolvedor(a) Frontend",
+    name: "Jaison Schmidt",
+    role: "Desenvolvedor Frontend",
     summary:
       "Desenvolvedor(a) com foco em interfaces web modernas, acessíveis e performáticas. Apaixonado(a) por React e pelo ecossistema JavaScript.",
     location: "Cidade, País",
@@ -63,7 +63,7 @@ export const resume: Resume = {
   contact: {
     email: "seu-email@exemplo.com",
     phone: "+55 00 00000-0000",
-    website: "https://seu-site.exemplo.com",
+    website: "https://jaison.com.br",
     github: "https://github.com/seu-usuario",
     linkedin: "https://linkedin.com/in/seu-usuario",
   },
@@ -94,8 +94,8 @@ export const resume: Resume = {
   ],
   education: [
     {
-      institution: "Universidade Exemplo",
-      degree: "Bacharelado em Ciência da Computação",
+      institution: "Universidade de Passo Fundo",
+      degree: "Mestrado em Computação Aplicada",
       period: "2017 — 2021",
     },
   ],
