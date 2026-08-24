@@ -49,11 +49,11 @@ export type Resume = {
   projects: Project[];
 };
 
-export const siteUrl = "https://seu-site.exemplo.com";
+export const siteUrl = "https://cv-jaisonschmidt.vercel.app";
 
 export const resume: Resume = {
   profile: {
-    name: "Jaison Schmidt",
+    name: "Jaison Schmidt - Alterado",
     role: "Desenvolvedor Frontend",
     summary:
       "Desenvolvedor(a) com foco em interfaces web modernas, acessíveis e performáticas. Apaixonado(a) por React e pelo ecossistema JavaScript.",
